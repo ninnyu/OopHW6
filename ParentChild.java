@@ -1,7 +1,8 @@
-/* Homework 6, main method
- * @author NinnYu Chin
- * Description:	The main method where the child changes
- * 				its parent's protected member.
+/* 	Homework 6, main method
+ * 	@author NinnYu Chin
+ * 	Instruction:	Access a protected variable of the parent class from a child 
+ *			class. Make sure that the parent and the child classes are in different 
+ *			packages.
  */
 
 import child.Children;
